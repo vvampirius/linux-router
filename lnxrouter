@@ -230,7 +230,7 @@ define_global_variables(){
     #wifi4
     IEEE80211N=0
     REQUIREHT=0
-    HT_CAPAB='[HT40+]'
+    HT_CAPAB=
     #wifi5
     IEEE80211AC=0
     REQUIREVHT=0
